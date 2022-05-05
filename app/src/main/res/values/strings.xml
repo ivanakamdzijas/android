@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Moji planovi</string>
+
+
+
+
+
+    <string name="textview"></string>
+
+    <string name="cover_image">slika obroka</string>
+
+    <string name="details">Detalji</string>
+
+    <string name="search">Pretraga recepata</string>
+    <string name="ingredients">sastojci:</string>
+    <string name="save">Sačuvati</string>
+    <string name="time">vreme:</string>
+    <string name="number_of_persons">broj osoba:</string>
+    <string name="recipe_on_web">recept na web-u:</string>
+
+
+
+    <string name="choose_date">odabrati datum</string>
+
+    <string name="add">dodati</string>
+    <string name="cancel">odustati</string>
+    <string name="add_new">dodati novi</string>
+    <string name="recipes_search">Pretraga recepata</string>
+    <string name="my_recipes" >Moji recepti</string>
+    <string name="new_plan" >Novi plan</string>
+    <string name="plan_history" >Istorija planova</string>
+    <string name="select_recipe"></string>
+
+    <string name="create_plan">kreirati plan</string>
+
+    <string name="button_confirm_plan">potvrditi plan</string>
+    <string name="remove_recipe_from_plan">ukloniti recept iz plana</string>
+    <string name="button_pick_time">odabrati vreme</string>
+    <string name="textViewPlanKcal">Kalorije odabranog plana:</string>
+    <string name="textViewSumKcal" />
+    <string name="button_pick_meals">odabrati obroke</string>
+    <string name="plan_uk_kcal">plan ima kalorije</string>
+    <string name="textview_sum_kcal" />
+
+
+
+
+
+    <string name="textview_meal_title" />
+    <string name="textview_meal_time"></string>
+    <string name="textview_calories_plan">kalorije:</string>
+    <string name="calories_plan" />
+    <string name="textview_meals_included">Obroci</string>
+    <string name="textview_plan_meals" />
+    <string name="image_view">slika</string>
+    <string name="textViewDate">...</string>
+    <string name="textviewPlanDetails">Detalji plana</string>
+    <string name="textviewTitle"></string>
+    <string name="textviewTime"></string>
+    <string name="my_meal_plans">Moji planovi</string>
+    <string name="textview_kcal" >"kalorije: "</string>
+    <string name="textViewAddNew" >Novi plan</string>
+    <string name="calories">kalorije:</string>
+    <string name = "pickMeals"> Zaboravili ste da odaberete obroke! </string>
+    <string name = "pickDate"> Zaboravili ste da odaberete datum! </string>
+    <string name = "futureDate"> Nije moguće odabrati prošli datum! </string>
+    <string name = "history"> Kalorijski unos tokom vremena </string>
+    <string name = "dataNotAvaliable"> Podaci nisu dostupni </string>
+    <string name = "added"> Plan je uspešno kreiran! </string>
+    <string name = "permission_not_granted"> "Izvinite, zbog zabranjenog pristupa eksternom skladištu, ne može se koristiti kamra." </string>
+
+</resources>
